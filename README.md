@@ -10,5 +10,5 @@ API Used: https://api.rootnet.in/covid19-in/stats/history
 
 Run
 
-* ```code npm install ```
-* ```code npm start ```
+* ``` npm install ```
+* ``` npm start ```
