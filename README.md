@@ -1,6 +1,7 @@
 # Bharat's Covid tracker
 
 A covid tracker which call API to fetch data. Created using React.js, Material UI, Chart.js and axios.
+
 API Used: https://api.rootnet.in/covid19-in/stats/history
 
 ### Deployed on netlify
